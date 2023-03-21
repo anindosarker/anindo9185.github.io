@@ -19,7 +19,7 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'AnindoSarker',
-  github: 'anindo9185',
+  github: 'anindosarker',
   linkedin: 'anindo-sarker',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
